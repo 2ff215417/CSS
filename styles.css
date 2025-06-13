@@ -15,9 +15,10 @@ body
 article
 
     {
-        background-image: url("https://livingplanetaquarium.org/wp-content/uploads/asia_komodo-dragon_animal-edited-e1687380699376.png");
-        width:300px;
-        height:auto;
+        background-image: url(https://th-thumbnailer.cdn-si-edu.com/M2gX-V36PODTjxMjfbc62jrpO0A=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/7f/29/7f29611c-d054-40e2-bc88-65274b63a12a/1200px-komodo_dragon_with_tongue.jpg);
+        width:850px;
+        height:475px;
+        backdrop-filter: blur(5px);
     }
 
 
